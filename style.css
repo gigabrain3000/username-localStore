@@ -1,0 +1,14 @@
+.main {
+  margin: 0;
+}
+
+.wrapper {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.user-list {
+  display: grid;
+  grid-template-columns: repeat(2, 50%);
+  border: 1px black solid;
+}
